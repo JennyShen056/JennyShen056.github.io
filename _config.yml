@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiran(Jenny) Shen"
-  pronouns         : "she/her"  
-  bio              : "1st-year CS PhD student @UCSD"
+  pronouns         : "1st-year CS PhD student @UCSD" #"she/her"  
+  bio              : "LLM alignment, Agents, Reasoning, Explainable AI"
   location         : "La Jolla, CA"
   employer         : "University of California, San Diego"
   uri              : # URL
