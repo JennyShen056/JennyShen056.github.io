@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yiran(Jenny) Shen / Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yiran(Jenny) Shen"
 description              : &description "personal description"
