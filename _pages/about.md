@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a first-year PhD student in Computer Science at the University of California, San Diego, advised by [Prof. Prithviraj (Raj) Ammanabrolu]([https://rajammanabrolu.github.io/](https://prithvirajva.com/))
+. My research interests lie within the area of trustworthy AI, focusing on interpretability, fairness, reasoning, and robustness of ML models. I'm particularly passionate about large language models and developing advanced multi-agent systems, exploring their synergies to enhance collaborative problem-solving, and investigating their social impacts and ethical implications in decision-making. Prior to joining UCSD, I completed my Master's in Interdisciplinary Data Science at Duke University, where I was fortunate to work with Prof. Brandon T. Fain on interpretable alignment of LLMs. I also hold a Bachelor's degree in Commerce from the University of Melbourne, where I developed a strong foundation in economics, finance, and statistics.
 
 A data-driven personal website
 ======
