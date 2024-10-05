@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Optimizing Large Language Models"
+excerpt: "Neural Network Acceleration & Compression Experimentations. One-year Capstone Project with Proofpoint. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project addressed the significant challenge of reducing computational and storage costs associated with the deployment of large language models (LLMs) at [Proofpoint](https://www.proofpoint.com/us). Recognizing the vital role of LLMs in enhancing the detection and mitigation of cyber threats across emails, documents, and other communication channels, we embarked on a mission to compress these models. Our objective was to achieve cost-efficiency by minimizing the model size and inference speed without compromising their performance capabilities. This pursuit was motivated by the pressing need to manage the considerable expenses tied to operating LLMs, as exemplified by the substantial daily costs incurred by similar operations at scale.
+
+The solution involved a meticulous experimental design that leveraged state-of-the-art compression techniques, including pruning, quantization, and knowledge distillation, applied both individually and in combination. We focused our efforts on BERT and 1B-LLM models, utilizing multilabel and multiclass classification datasets to evaluate our strategies’ effectiveness. The results were promising: we achieved up to a 2.35 times increase in inference speed and a 6.64 times reduction in model size, with minimal impact on accuracy. These improvements were critical for Proofpoint, enabling more efficient and cost-effective deployment of LLMs for cybersecurity purposes. By significantly reducing computational and storage requirements, our work supports the scalable application of LLMs in detecting and mitigating cyber threats, providing substantial business value to our client. Through detailed documentation and the development of optimization scripts for cross-platform interoperability, we have laid a foundation for future advancements and broader applicability of our findings.
