@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a first-year PhD student in Computer Science at the University of California, San Diego, advised by [Prof. Prithviraj (Raj) Ammanabrolu](https://prithvirajva.com/). My research interests lie within the area of trustworthy AI, focusing on interpretability, fairness, reasoning, and robustness of ML models. I'm particularly passionate about large language models and developing advanced multi-agent systems, exploring their synergies to enhance collaborative problem-solving, and investigating their social impacts and ethical implications in decision-making. Prior to joining UCSD, I completed my Master's in Interdisciplinary Data Science at Duke University, where I was fortunate to work with [Prof. Brandon T. Fain](https://sites.duke.edu/btfain/) I also collaborate with researchers at Alibaba Group, working under the guidance of [Dr. Liuyi Yao](https://osier-yi.github.io/). I hold a Bachelor's degree in Commerce from the University of Melbourne, where I developed a strong foundation in economics, finance, and statistics.
+Hi, welcome to my homepage =) I'm a first-year PhD student in Computer Science at the University of California, San Diego, advised by [Prof. Prithviraj (Raj) Ammanabrolu](https://prithvirajva.com/). My research interests lie within the area of trustworthy AI, focusing on interpretability, fairness, reasoning, and robustness of ML models. I'm particularly passionate about large language models and developing advanced multi-agent systems, exploring their synergies to enhance collaborative problem-solving, and investigating their social impacts and ethical implications in decision-making. Prior to joining UCSD, I completed my Master's in Interdisciplinary Data Science at Duke University, where I was fortunate to work with [Prof. Brandon T. Fain](https://sites.duke.edu/btfain/) I also collaborate with researchers at Alibaba Group, working under the guidance of [Dr. Liuyi Yao](https://osier-yi.github.io/). I hold a Bachelor's degree in Commerce from the University of Melbourne, where I developed a strong foundation in economics, finance, and statistics.
 
 A data-driven personal website
 ======
