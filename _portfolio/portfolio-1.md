@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Large Language Models"
-excerpt: "Neural Network Acceleration & Compression Experimentations. One-year Capstone Project with Proofpoint. <br/><img src='/images/capstone.jpg'>"
+excerpt: "Neural Network Acceleration & Compression Experimentations. (One-year Capstone Project with Proofpoint) <br/><img src='/images/capstone.jpg'>"
 collection: portfolio
 ---
 
