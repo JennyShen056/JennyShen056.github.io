@@ -9,14 +9,14 @@ main:
     # url: /cv/
     url: /files/Yiran(Jenny)_Shen_CV.pdf
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
     
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/  
+  # - title: "Teaching"
+  #   url: /teaching/  
     
   # - title: "Talks"
   #   url: /talks/    
