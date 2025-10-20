@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year PhD student in Computer Science at the University of California, San Diego, advised by [Prof. Prithviraj (Raj) Ammanabrolu](https://prithvirajva.com/) at [Pearls Lab](https://pearls-lab.github.io/).🧋🏖
+I'm a second-year PhD student in Computer Science at the University of California, San Diego, advised by [Prof. Prithviraj (Raj) Ammanabrolu](https://prithvirajva.com/) at [Pearls Lab](https://pearls-lab.github.io/).🧋🏖
 
 My research interests lie within the area of trustworthy AI, focusing on interpretability, fairness, reasoning, and robustness of ML models. I'm particularly passionate about large language models and developing advanced multi-agent systems, exploring their synergies to enhance collaborative problem-solving, and investigating their social impacts and ethical implications in decision-making.📚 
 
