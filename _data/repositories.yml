@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - JennyShen056
 
 repo_description_lines_max: 2
 
 github_repos:
   - JennyShen056/LLM-Experimentation-Capstone
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - JennyShen056/Face-Expression-Recognition-with-Deep-Learning
+  - JennyShen056/Cups-Circulation-Application-Development
+  - JennyShen056/Customer-Profitability-Analysis-and-Predictions-using-LSTM
+  - JennyShen056/Opioid-Shipment-Policy-Diff-in-Diff-Analysis

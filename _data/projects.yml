@@ -1,0 +1,14 @@
+# Custom projects/reports (non-code projects)
+# These will be displayed alongside GitHub repositories on the projects page
+
+- title: "Domain Adaptive Ophthalmic Image Segmentation using Transfer Learning"
+  description: "Improved Diabetic Macular Edema detection on limited OCT images by finetuning MM Segmentation models, achieving mDice 79.38% and mIoU 70.64% with a UNet model using DeepLabV3 heads."
+  link: "https://drive.google.com/file/d/1AJfdGkl1qEaQLcLbWrao01M4EWV7cqX9/view?usp=sharing" # or path to PDF: "/assets/pdf/report.pdf"
+  type: "Report" # or "Paper", "Presentation", etc.
+  img: "" # optional: path to thumbnail image like "assets/img/project1.jpg"
+
+- title: "Algorithmic Options Trading with Sentiment Analysis and Delta Hedging"
+  description: "Built an algorithmic options trading strategy that uses sentiment adjusted implied versus realized volatility spreads with delta hedging to remain market neutral, achieving consistent risk adjusted returns in backtests across volatile and normal market conditions."
+  link: "https://drive.google.com/file/d/119e86RxzbOskEIG6hATdXepvJFE_7tKQ/view?usp=sharing"
+  type: "Report"
+  img: ""

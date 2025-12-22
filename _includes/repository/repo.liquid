@@ -31,17 +31,19 @@
   {% assign max_lines = 2 %}
 {% endif %}
 
-<div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.repository }}">
+<div class="repo h-100 d-flex align-items-stretch">
+  <a href="https://github.com/{{ include.repository }}" class="w-100 text-decoration-none">
     <img
-      class="only-light w-100"
+      class="only-light w-100 h-100"
       alt="{{ include.repository }}"
       src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+      style="object-fit: contain; border-radius: 0.5rem;"
     >
     <img
-      class="only-dark w-100"
+      class="only-dark w-100 h-100"
       alt="{{ include.repository }}"
       src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+      style="object-fit: contain; border-radius: 0.5rem;"
     >
   </a>
 </div>
