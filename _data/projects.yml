@@ -1,0 +1,25 @@
+- title: "LLM-Experimentation-Capstone"
+  description: "This is the repository for our capstone project in which we are experimenting with LLM fine-tuning and compression techniques."
+  link: "https://github.com/yourusername/LLM-Experimentation-Capstone"
+  link_text: "Code Repository"
+
+- title: "Cups-Circulation-Application-Development"
+  description: "Code for Good 2022 project - developing an application for cups circulation management."
+  link: "https://github.com/yourusername/Cups-Circulation-Application-Development"
+  link_text: "Code Repository"
+
+- title: "Opioid-Shipment-Policy-Diff-in-Diff-Analysis"
+  description: "PDS 2022 Red Team - Opioid Shipment Final Project analyzing policy impacts using difference-in-differences methodology."
+  link: "https://github.com/yourusername/Opioid-Shipment-Policy-Diff-in-Diff-Analysis"
+  link_text: "Code Repository"
+
+- title: "Face-Expression-Recognition-with-Deep-Learning"
+  description: "Deep learning project for facial expression recognition using convolutional neural networks."
+  link: "https://github.com/yourusername/Face-Expression-Recognition-with-Deep-Learning"
+  link_text: "Code Repository"
+
+- title: "Customer-Profitability-Analysis"
+  description: "Data analysis project examining customer profitability metrics and segmentation strategies."
+  link: "https://github.com/yourusername/Customer-Profitability-Analysis"
+  link_text: "Code Repository"
+
