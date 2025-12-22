@@ -2,16 +2,19 @@
   description: "Finetuned 3B parameter LLMs with quantization, distillation, and pruning to achieve 50% faster inference with less than 2% accuracy loss for generalized cyber threat detection in emails, documents, and other communication channels."
   link: "https://github.com/JennyShen056/LLM-Experimentation-Capstone"
   link_text: "Code Repo"
+  image: "proofpoint.jpg" # Optional: Add image filename (place images in assets/img/projects/) or use full URL
 
 - title: "Real-Time Facial Emotion Detection from Partially Obstructed Faces using CNNs"
   description: "Utilized VGG 16, outperforming ResNet50 by 7%, to detect emotions from partially obstructed faces, applied saliency maps for interpretability, and integrated it with OpenCV haar cascade for real time emotion detection."
   link: "https://github.com/JennyShen056/Face-Expression-Recognition-with-Deep-Learning"
   link_text: "Code Repo"
+  image: "facial.jpg" # Optional: Add image filename (place images in assets/img/projects/) or use full URL
 
 - title: "Algorithmic Options Trading with Sentiment Analysis and Delta Hedging"
   description: "Built an algorithmic options trading strategy using sentiment adjusted implied versus realized volatility spreads with delta hedging to remain market neutral, achieving consistent risk adjusted returns in backtests across volatile and normal markets."
   link: "https://drive.google.com/file/u/3/d/119e86RxzbOskEIG6hATdXepvJFE_7tKQ/view?usp=sharing"
   link_text: "Report"
+  image: "vol.jpg" # Optional: Add image filename (place images in assets/img/projects/) or use full URL
 
 - title: "Reusable Cup Circulation and Tracking Application"
   description: "Designed and implemented a full stack application to manage reusable cup circulation, enabling user registration, borrowing and return tracking, and real time inventory monitoring to support sustainable consumption workflows."
