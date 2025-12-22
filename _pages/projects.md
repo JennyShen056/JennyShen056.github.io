@@ -16,10 +16,10 @@ nav_order: 3
         {% if project.image %}
           <div class="col-md-4 col-sm-5 mb-3 mb-md-0">
             {% if project.image contains '://' %}
-              <img src="{{ project.image }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover;">
+              <img src="{{ project.image }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 350px; height: 150px; object-fit: cover;">
             {% else %}
               {% assign image_path = project.image | prepend: '/assets/img/projects/' %}
-              <img src="{{ image_path | relative_url }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover;">
+              <img src="{{ image_path | relative_url }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 350px; height: 150px; object-fit: cover;">
             {% endif %}
           </div>
           <div class="col-md-8 col-sm-7">
