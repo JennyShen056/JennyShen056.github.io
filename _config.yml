@@ -7,7 +7,6 @@ first_name: Yiran (Jenny)
 middle_name:
 last_name: Shen
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I'm a second-year PhD student in Computer Science at the University of California, San Diego, advised by [Prof. Prithviraj (Raj) Ammanabrolu](https://prithvirajva.com/) at [Pearls Lab](https://pearls-lab.github.io/).🧋🏖
 footer_text: >
