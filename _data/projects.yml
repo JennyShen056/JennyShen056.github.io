@@ -20,18 +20,22 @@
   description: "Designed and implemented a full stack application to manage reusable cup circulation, enabling user registration, borrowing and return tracking, and real time inventory monitoring to support sustainable consumption workflows."
   link: "https://github.com/JennyShen056/Cups-Circulation-Application-Development"
   link_text: "Code Repo"
+  image: "cup.jpg" # Optional: Add image filename (place images in assets/img/projects/) or use full URL
 
 - title: "Domain Adaptive Ophthalmic Image Segmentation using Transfer Learning"
   description: "Improved Diabetic Macular Edema detection on limited OCT images by finetuning MM Segmentation models, achieving mDice 79.38% and mIoU 70.64% with a UNet model using DeepLabV3 heads."
   link: "https://drive.google.com/file/d/1AJfdGkl1qEaQLcLbWrao01M4EWV7cqX9/view"
   link_text: "Report"
+  image: "unet.jpg"
 
 - title: "Customer Profitability Analysis and Predictions using LSTM for Targeted Marketing"
   description: "Classified customer profitability into three tiers using K-means clustering on standardized monthly sales data, then built a customized LSTM model that achieved 96.65% accuracy and improved targeted marketing strategies to drive revenue growth."
   link: "https://github.com/JennyShen056/Customer-Profitability-Analysis-and-Predictions-using-LSTM"
   link_text: "Code Repo"
+  image: "market.jpg"
 
 - title: "Opioid Shipment Policy Difference-in-Difference Analysis"
   description: "Applied a difference in differences causal inference framework to estimate the effect of state level opioid shipment regulations on per capita shipments and overdose mortality, isolating policy driven changes from underlying time trends."
   link: "https://github.com/JennyShen056/Opioid-Shipment-Policy-Diff-in-Diff-Analysis"
   link_text: "Code Repo"
+  image: "did.jpg"
