@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 2nd-year CSE PhD student @UCSD | La Jolla, CA
 
