@@ -7,7 +7,7 @@ subtitle: CSE PhD student @ UC San Diego
 
 profile:
   align: right
-  image: jenny_pic.jpg
+  image: jenny_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
