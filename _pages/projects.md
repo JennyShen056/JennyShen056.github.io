@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of my projects and research work.
+description: A collection of my cool projects and research work.
 nav: true
 nav_order: 3
 ---
@@ -14,15 +14,15 @@ nav_order: 3
     <div class="project-item mb-4">
       <div class="row">
         {% if project.image %}
-          <div class="col-md-3 col-sm-4 mb-3 mb-md-0">
+          <div class="col-md-4 col-sm-5 mb-3 mb-md-0">
             {% if project.image contains '://' %}
-              <img src="{{ project.image }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 200px; height: 150px; object-fit: cover;">
+              <img src="{{ project.image }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover;">
             {% else %}
               {% assign image_path = project.image | prepend: '/assets/img/projects/' %}
-              <img src="{{ image_path | relative_url }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 200px; height: 150px; object-fit: cover;">
+              <img src="{{ image_path | relative_url }}" alt="{{ project.title }}" class="img-fluid rounded" style="width: 100%; max-width: 350px; height: 220px; object-fit: cover;">
             {% endif %}
           </div>
-          <div class="col-md-9 col-sm-8">
+          <div class="col-md-8 col-sm-7">
         {% else %}
           <div class="col-12">
         {% endif %}
