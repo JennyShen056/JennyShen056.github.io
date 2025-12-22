@@ -391,11 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-new-work-sand-is-accepted-at-emnlp-2025-congratulations-to-all-collaborators",
+            },},{id: "news-two-of-our-papers-are-accepted-at-colm-congratulations-to-all-collaborators",
+          title: 'Two of our papers are accepted at COLM 🦙🍁. Congratulations to all collaborators!...',
+          description: "",
+          section: "News",},{id: "news-our-new-work-sand-is-accepted-at-emnlp-2025-congratulations-to-all-collaborators",
           title: 'Our new work SAND is accepted at EMNLP 2025. Congratulations to all collaborators!...',
           description: "",
-          section: "News",},{id: "news-i-will-be-attending-neurips-in-san-diego-️-and-presenting-my-new-work-at-the-math-ai-workshop-see-you-there",
-          title: 'I will be attending NeurIPS in San Diego 🏝️ and presenting my new...',
+          section: "News",},{id: "news-i-will-be-attending-neurips-in-san-diego-and-presenting-my-new-work-at-the-math-ai-workshop-see-you-there",
+          title: 'I will be attending NeurIPS in San Diego 🏄 and presenting my new...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
