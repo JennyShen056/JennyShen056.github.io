@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending NeurIPS in San Diego and presenting my new work at the Math-AI Workshop. See you there!
+I will be attending NeurIPS in San Diego 🏝️ and presenting my [new work](https://arxiv.org/pdf/2510.01167) at the Math-AI Workshop. See you there!
