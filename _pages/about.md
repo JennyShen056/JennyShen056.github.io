@@ -33,5 +33,5 @@ of large language models**. I’m also passionate about leveraging **reinforceme
 
 I have previously interned at <img src="{{ '/assets/img/ty_logo.jpg' | relative_url }}" alt="Tongyi Lab Logo" style="height: 1em; vertical-align: middle; margin: 0 0em;"> Alibaba Tongyi Lab, where I was advised by [Dr. Liuyi Yao](https://osier-yi.github.io/), working on research related to *personalized alignment, role-play agents, and reasoning*. 
 
-Prior to joining UCSD, I completed my Master's in Interdisciplinary Data Science at 😈 Duke University, where I was fortunate to work with [Prof. Brandon T. Fain](https://sites.duke.edu/btfain/) and [Prof. Bruce W Rogers](https://surgery.duke.edu/profile/bruce-w-rogers). Before that, I received my Bachelor’s degree from the 🇦🇺 University of Melbourne, majoring in Economics and Finance with a minor in Statistics.
+Prior to joining UCSD, I completed my Master's in Interdisciplinary Data Science at 😈 Duke University, where I was fortunate to work with [Prof. Brandon T. Fain](https://sites.duke.edu/btfain/) and [Prof. Bruce W. Rogers](https://surgery.duke.edu/profile/bruce-w-rogers). Before that, I received my Bachelor’s degree from the 🇦🇺 University of Melbourne, majoring in Economics and Finance with a minor in Statistics.
 
