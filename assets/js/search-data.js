@@ -401,7 +401,7 @@ ninja.data = [{
           title: 'I will be attending NeurIPS in San Diego 🏄 and presenting my new...',
           description: "",
           section: "News",},{id: "news-my-first-author-paper-simultaneous-multi-objective-alignment-across-verifiable-and-non-verifiable-rewards-has-been-accepted-to-icml-see-you-in-seoul",
-          title: 'My first-author paper, Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards, has been...',
+          title: 'My first-author paper Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
