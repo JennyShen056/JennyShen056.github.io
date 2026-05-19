@@ -7,7 +7,7 @@ subtitle: 2nd-year CSE PhD student @UCSD | La Jolla, CA
 
 profile:
   align: left
-  image: jenny_pic5.jpg
+  image: jenny_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
