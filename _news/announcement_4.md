@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first-author paper [**Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards**](https://arxiv.org/abs/2510.01167) has been accepted to ICML! See you in Seoul 🇰🇷
+My first-author paper [*Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards*](https://arxiv.org/abs/2510.01167) got accepted to ICML! See you in Seoul 🇰🇷
