@@ -35,16 +35,16 @@ My research focuses on building **capable, adaptive, and trustworthy LLM agents*
 - **[Pluralistic alignment & personalization](https://arxiv.org/abs/2510.01167)** — adapting agents to diverse user preferences, values, and needs
 - **[Reasoning, planning & self-improvement](https://aclanthology.org/2025.emnlp-main.152.pdf)** — helping agents choose better actions in long-horizon, open-ended tasks
 
+</div>
+
+<div style="clear: both;"></div>
+
 Across these directions, I develop methods that help agents:
 - **Infer user intent** through interaction and translate it into scalable reward and evaluation signals
 - **Learn and be evaluated** on tasks where success is hard to verify automatically
 - **Coordinate in multi-agent settings** via reinforcement learning for better human-agent and agent-agent collaboration
 
-</div>
-
-<div style="clear: both;"></div>
-
 <!-- **Long-term goal.** Build **safe, controllable agentic systems** that reliably complete economically valuable work in the wild, and understand their social and ethical impact when embedded in real decision-making pipelines. -->
 
-I have previously interned at <img src="{{ '/assets/img/ty_logo.jpg' | relative_url }}" alt="Tongyi Lab Logo" style="height: 1em; vertical-align: middle; margin: 0 0em;"> Alibaba Tongyi Lab, where I was advised by [Dr. Liuyi Yao](https://osier-yi.github.io/), working on research related to personalized alignment, role-play agents, and reasoning. Prior to joining UCSD, I completed my Master's in Interdisciplinary Data Science at 💙 Duke University, where I was fortunate to work with [Prof. Brandon T. Fain](https://sites.duke.edu/btfain/) and [Prof. Bruce W. Rogers](https://surgery.duke.edu/profile/bruce-w-rogers). Before that, I received my Bachelor’s degree from the 🇦🇺 University of Melbourne, majoring in Economics and Finance with a minor in Statistics.
+I previously interned at <img src="{{ '/assets/img/ty_logo.jpg' | relative_url }}" alt="Tongyi Lab Logo" style="height: 1em; vertical-align: middle; margin: 0 0em;"> Alibaba Tongyi Lab with [Dr. Liuyi Yao](https://osier-yi.github.io/), working on role-play agents and reasoning. Before UCSD, I completed my Master's in Interdisciplinary Data Science at 💙 Duke University, working with [Prof. Brandon T. Fain](https://sites.duke.edu/btfain/) and [Prof. Bruce W. Rogers](https://surgery.duke.edu/profile/bruce-w-rogers), and received my Bachelor’s degree from the 🇦🇺 University of Melbourne in Economics and Finance with a minor in Statistics.
 
