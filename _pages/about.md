@@ -28,11 +28,14 @@ latest_posts:
 
 Hi, welcome to my homepage! I'm a second-year PhD student in Computer Science at the University of California, San Diego, advised by [Prof. Prithviraj (Raj) Ammanabrolu](https://prithvirajva.com/) at [Pearls Lab](https://pearls-lab.github.io/)🧋.
 
+<div style="clear: both;"></div>
+
 My research focuses on building **capable, adaptive, and trustworthy LLM agents** that can reason, use tools, collaborate, and improve from experience. I am especially interested in:
 <!-- that can reason, plan, use tools, and collaborate over long horizons while remaining aligned with human intent.  -->
 
 - **[Pluralistic alignment & personalization](https://arxiv.org/abs/2510.01167)** — adapting agents to diverse user preferences, values, and needs
 - **[Reasoning, planning & self-improvement](https://aclanthology.org/2025.emnlp-main.152.pdf)** — helping agents choose better actions in long-horizon, open-ended tasks
+- **[Transparency & explainability](https://openreview.net/pdf?id=FaOeBrlPst)** — understanding and surfacing why agents behave as they do, to support debugging and safer deployment
 
 Across these directions, I develop methods that help agents:
 - **Infer user intent** through interaction and translate it into scalable reward and evaluation signals
