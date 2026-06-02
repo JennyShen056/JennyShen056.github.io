@@ -4,7 +4,7 @@
     <div
       class="table-responsive"
       {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 240px; overflow-y: auto; padding-right: 0.75rem"
+        style="max-height: 220px; overflow-y: auto; padding-right: 0.5rem"
       {% endif %}
     >
       <table class="table table-borderless mb-0">
@@ -16,10 +16,10 @@
         {% endif %}
         {% for item in news limit: news_limit %}
           <tr style="vertical-align: top">
-            <th scope="row" style="width: 22%; padding-bottom: 0.85rem; padding-right: 1.25rem; white-space: nowrap">
+            <th scope="row" style="width: 22%; padding-bottom: 0.6rem; padding-right: 1rem; white-space: nowrap">
               {{ item.date | date: '%b %d, %Y' }}
             </th>
-            <td style="padding-bottom: 0.85rem">
+            <td style="padding-bottom: 0.6rem">
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}

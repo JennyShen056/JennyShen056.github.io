@@ -42,10 +42,10 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2 class="mt-5 mb-3">
+      <h2 class="mt-4 mb-3">
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
-      <div class="mb-5">
+      <div class="mb-4">
         {% include news.liquid limit=true %}
       </div>
     {% endif %}
@@ -60,7 +60,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
+      <h2 class="mt-4">
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
