@@ -760,8 +760,15 @@ footer.sticky-bottom {
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
+          line-height: 1.15;
+          max-width: 100%;
+          overflow-wrap: anywhere;
+          padding: 0.35rem 0.45rem;
+          text-align: center;
+          white-space: normal;
 
           a {
+            display: block;
             color: white;
 
             &:hover {
